@@ -21,7 +21,7 @@ A lightweight trading chart application built with TypeScript and TradingView's 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tiny-tradingview.git
+git clone https://github.com/doublnt/tiny-tradingview.git
 cd tiny-tradingview
 ```
 
