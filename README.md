@@ -2,6 +2,9 @@
 
 A lightweight trading chart application built with TypeScript and TradingView's Lightweight Charts library.
 
+![image](https://github.com/user-attachments/assets/3d8d83dc-bb0e-4ba0-a0d8-173b591801c6)
+
+
 ## Features
 
 - Real-time price chart
